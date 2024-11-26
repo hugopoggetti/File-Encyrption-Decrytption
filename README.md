@@ -30,9 +30,12 @@ To encrypt a file using the OTP encryption method
 make
 ./encrypt secret 
 ```
+### Decryption
 To decrypt a file using the OTP encryption method
 ``` bash
 ./decrypt crypted.out key.out
 cat decrypt.out
 ```
+### References
+
 
