@@ -9,7 +9,7 @@ This project demonstrates the implementation of the One-Time Pad (OTP) encryptio
 - [Usage](#usage)
   - [Encryption](#encryption)
   - [Decryption](#decryption)
-- [Code Explanation](#code-explanation)
+- [References](#references)
 
   ## Overview
 
@@ -37,5 +37,6 @@ To decrypt a file using the OTP encryption method
 cat decrypt.out
 ```
 ### References
+[Wikipedia One-time pad link](https://en.wikipedia.org/wiki/One-time_pad)
 
 
